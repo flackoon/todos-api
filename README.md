@@ -1,4 +1,4 @@
-# README
+# A few words about...
 
 ### Just my first RESTful API written on Ruby on Rails.
 
